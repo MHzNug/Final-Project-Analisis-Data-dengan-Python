@@ -1,1 +1,0 @@
-# Final-Project-Analisis-Data-dengan-Python
