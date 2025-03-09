@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/306c581e-5ee7-49bf-b8df-fa5de2a2051c" /># Dicoding Collection Dashboard ✨
 
 ## Setup Environment - Anaconda
 ```
@@ -18,5 +18,5 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+python -m streamlit run dashboard.py
 ```
