@@ -57,7 +57,6 @@ markdown-it-py
 MarkupSafe
 matplotlib
 matplotlib-inline
-mdurl
 ml_dtypes
 mpmath
 namex
@@ -86,7 +85,6 @@ pyasn1
 pydantic
 pydantic_core
 pydeck
-Pygments
 pyparsing
 pyreadline3
 pysnmp
@@ -97,7 +95,6 @@ PyYAML
 pyzmq
 referencing
 requests
-rich
 rpds-py
 scikit-image
 scikit-learn
